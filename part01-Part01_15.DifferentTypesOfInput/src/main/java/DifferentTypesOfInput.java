@@ -21,4 +21,5 @@ public class DifferentTypesOfInput {
         System.out.println("You gave the double "+ floatingPoint);
         System.out.println("You gave the boolean " + trueOrFalse);
     }
+
 }
